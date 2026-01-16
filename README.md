@@ -24,4 +24,4 @@ I also lead the **Solaris Packet Protocol (SPP)**, a **modular communication sys
 
 ## 📫 Contact
 
-**LinkedIn**: [óscar-barja](https://www.linkedin.com/in/tu-usuario)  |  **Email**: [barjalorenzooscar@gmail.com](mailto:barjalorenzooscar@gmail.com)
+**LinkedIn**: [óscar-barja](https://www.linkedin.com/in/óscar-barja-lorenzo)  |  **Email**: [barjalorenzooscar@gmail.com](mailto:barjalorenzooscar@gmail.com)
