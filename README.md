@@ -5,7 +5,7 @@ I design electronics as if they were going to space, because sometimes they are.
 Aerospace engineering student focused on embedded systems, where software and hardware meet under real constraints.
 I work close to the hardware, writing firmware, drivers, and system-level code that is expected to run on real boards.
 
-<h2>⚙️ Skills</h2>
+<h2>Skills</h2>
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ SPI driver in C using ESP-IDF, including device configuration, raw data acquisit
        alt="Solaris_Insignia_ConFondo-01"
        src="https://github.com/user-attachments/assets/0ed7466a-a30d-4710-9599-8f9de1d5f661"
        align="left"
-       style="margin-right:16px; margin-top:5.1px;" />
+       style="margin-right:16px; margin-top:5.15px;" />
 
   Head of Electronics in <b>Solaris</b>, a university rocketry project.<br><br>
   I am responsible for <b>defining and maintaining the electronics subsystem</b>,
