@@ -54,8 +54,6 @@ I work close to the hardware, writing firmware, drivers, and system-level code t
   </tr>
 </table>
 
-
-
 ##  Projects
 - **BMP390 Driver (ESP32-S3)** | *End-to-End Developer*  
 SPI driver in C using ESP-IDF, including device configuration, raw data acquisition, full compensation, and filtering. Validated on real hardware.
@@ -69,7 +67,7 @@ SPI driver in C using ESP-IDF, including device configuration, raw data acquisit
        alt="Solaris_Insignia_ConFondo-01"
        src="https://github.com/user-attachments/assets/0ed7466a-a30d-4710-9599-8f9de1d5f661"
        align="left"
-       style="margin-right:16px; margin-top:6px;" />
+       style="margin-right:16px; margin-top:5.1px;" />
 
   Head of Electronics in <b>Solaris</b>, a university rocketry project.<br><br>
   I am responsible for <b>defining and maintaining the electronics subsystem</b>,
