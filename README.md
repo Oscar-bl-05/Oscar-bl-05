@@ -46,9 +46,7 @@ I work close to the hardware, writing firmware, drivers, and system-level code t
     <td align="left">
       <div align="left">
         <img src="https://img.shields.io/badge/SolidWorks-EE2A24?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-        <img src="https://img.shields.io/badge/CATIA-1E88E5?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
         <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-        <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" />
       </div>
     </td>
   </tr>
