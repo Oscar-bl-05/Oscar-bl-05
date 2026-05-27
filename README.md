@@ -60,21 +60,25 @@ SPI driver in C using ESP-IDF, including device configuration, raw data acquisit
   Modular communication protocol based on HAL / OSAL abstractions, inspired by CSP and NASA-style design principles for avionics use.
 
 ## Experience | Solaris (UVigo Aerotech)
-<p>
-  <img width="100" height="100"
-       alt="Solaris_Insignia_ConFondo-01"
-       src="https://github.com/user-attachments/assets/0ed7466a-a30d-4710-9599-8f9de1d5f661"
-       align="left"
-       style="margin-right:16px; margin-top:5.15px;" />
 
-  Head of Electronics in <b>Solaris</b>, a university rocketry project.<br><br>
-  I am responsible for <b>defining and maintaining the electronics subsystem</b>,
-  coordinating hardware and firmware development while actively contributing to
-  <b>embedded software, system architecture, and HW–SW integration</b>.
-</p>
-
-<br clear="left"/>
-
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img
+        width="100"
+        height="100"
+        alt="Solaris_Insignia_ConFondo-01"
+        src="https://github.com/user-attachments/assets/0ed7466a-a30d-4710-9599-8f9de1d5f661"
+      />
+    </td>
+    <td valign="top">
+      Head of Electronics in <b>Solaris</b>, a university rocketry project.<br><br>
+      I am responsible for <b>defining and maintaining the electronics subsystem</b>,
+      coordinating hardware and firmware development while actively contributing to
+      <b>embedded software, system architecture, and HW–SW integration</b>.
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 
