@@ -2,8 +2,8 @@
 I design electronics as if they were going to space, because sometimes they are.
 
 ## About Me
-Aerospace engineering student focused on embedded systems, where software and hardware meet under real constraints.
-I work close to the hardware, writing firmware, drivers, and system-level code that is expected to run on real boards.
+Aerospace engineering student focused on embedded systems and avionics, especially low-level C, firmware architecture, drivers, and HW–SW integration.
+I work close to the hardware, building software around real timing, memory, and interface constraints, and validating it on actual boards.
 
 <h2>Skills</h2>
 
@@ -52,12 +52,13 @@ I work close to the hardware, writing firmware, drivers, and system-level code t
   </tr>
 </table>
 
-##  Projects
+## Projects
+
 - **BMP390 Driver (ESP32-S3)** | *End-to-End Developer*  
-SPI driver in C using ESP-IDF, including device configuration, raw data acquisition, full compensation, and filtering. Validated on real hardware.
+SPI driver in C using ESP-IDF, covering device initialization and configuration, burst data acquisition, pressure and temperature compensation, altitude estimation, and filtering. Developed and validated on real ESP32-S3 hardware.
 
 - **Solaris Packet Protocol (SPP)** | *Project Lead*  
-  Modular communication protocol based on HAL / OSAL abstractions, inspired by CSP and NASA-style design principles for avionics use.
+Portable C11 packet and service architecture for embedded systems, built with static memory, hardware abstraction, and no OS dependency. Provides structured packets, CRC-16, a static databank, priority-aware publish-subscribe routing, service registration, and platform-specific HAL ports.
 
 ## Experience | Solaris (UVigo Aerotech)
 
@@ -74,8 +75,8 @@ SPI driver in C using ESP-IDF, including device configuration, raw data acquisit
     <td valign="middle">
       Head of Electronics in <b>Solaris</b>, a university rocketry project.<br><br>
       I am responsible for <b>defining and maintaining the electronics subsystem</b>,
-      coordinating hardware and firmware development while actively contributing to
-      <b>embedded software, system architecture, and HW–SW integration</b>.
+      coordinating hardware and firmware development while contributing directly to
+      <b>embedded C, avionics software architecture, sensor integration, and HW–SW validation</b>.
     </td>
   </tr>
 </table>
